@@ -1,6 +1,4 @@
-#### I was working on this instead of my finals, hope you appreciate it.
-
-<a href="https://www.buymeacoffee.com/HistidineDwarf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+#### Here is a Colab notebook made by me that builds from source and installs the dependencies manually and can be opened via [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/alphatensor/blob/master/algorithms/explore_factorizations.ipynb). Just follow the instructions and feel free to make any suggestions/improvements!
 
 Treat this less like the next dropbox and more like a "party trick" or a set of techniques to learn to pass data through compression. I do not endorse high volume use of this tool. I will also refrain from approving more commits to make the tool more convenient to use. There are several bugs that limit the use like the poor use of RAM limiting the size of files to about 100mb and they will remain. If you wish to fix these, you are on your own.
 
